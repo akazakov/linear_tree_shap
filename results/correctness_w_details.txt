@@ -1,0 +1,141 @@
+dataset,method,depth,correct
+
+Arrays are not almost equal to 2 decimals
+
+Mismatched elements: 33218 / 1041984 (3.19%)
+Max absolute difference: 0.69247288
+Max relative difference: 1.
+ x: array([[0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],...
+ y: array([[ 0.  ,  0.  , -0.03, ...,  0.  ,  0.  ,  0.  ],
+       [ 0.  ,  0.  , -0.08, ...,  0.  ,  0.  ,  0.  ],
+       [ 0.  ,  0.  , -0.08, ...,  0.  ,  0.  ,  0.  ],...
+adult,linear_tree_shap_v1,2,False
+
+Arrays are not almost equal to 2 decimals
+
+Mismatched elements: 33218 / 1041984 (3.19%)
+Max absolute difference: 0.69247288
+Max relative difference: 1.
+ x: array([[0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],...
+ y: array([[ 0.  ,  0.  , -0.03, ...,  0.  ,  0.  ,  0.  ],
+       [ 0.  ,  0.  , -0.08, ...,  0.  ,  0.  ,  0.  ],
+       [ 0.  ,  0.  , -0.08, ...,  0.  ,  0.  ,  0.  ],...
+adult,linear_tree_shap_v2,2,False
+adult,fast_tree_shap_v1,2,True
+adult,fast_tree_shap_v2,2,True
+
+Arrays are not almost equal to 2 decimals
+
+Mismatched elements: 52413 / 1041984 (5.03%)
+Max absolute difference: 0.85595591
+Max relative difference: 1.
+ x: array([[0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],...
+ y: array([[ 1.96e-04,  3.90e-05, -8.29e-02, ...,  0.00e+00,  0.00e+00,
+         0.00e+00],
+       [ 2.98e-04,  2.02e-05, -5.95e-02, ...,  0.00e+00,  0.00e+00,...
+adult,linear_tree_shap_v1,4,False
+
+Arrays are not almost equal to 2 decimals
+
+Mismatched elements: 52413 / 1041984 (5.03%)
+Max absolute difference: 0.85595591
+Max relative difference: 1.
+ x: array([[0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],...
+ y: array([[ 1.96e-04,  3.90e-05, -8.29e-02, ...,  0.00e+00,  0.00e+00,
+         0.00e+00],
+       [ 2.98e-04,  2.02e-05, -5.95e-02, ...,  0.00e+00,  0.00e+00,...
+adult,linear_tree_shap_v2,4,False
+adult,fast_tree_shap_v1,4,True
+adult,fast_tree_shap_v2,4,True
+
+Arrays are not almost equal to 2 decimals
+
+Mismatched elements: 74620 / 1041984 (7.16%)
+Max absolute difference: 0.87383972
+Max relative difference: 1.
+ x: array([[0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],...
+ y: array([[-3.68e-02, -1.58e-04, -7.16e-02, ...,  0.00e+00,  0.00e+00,
+         0.00e+00],
+       [ 3.72e-02,  2.27e-04, -5.80e-02, ...,  0.00e+00,  0.00e+00,...
+adult,linear_tree_shap_v1,6,False
+
+Arrays are not almost equal to 2 decimals
+
+Mismatched elements: 74620 / 1041984 (7.16%)
+Max absolute difference: 0.87383972
+Max relative difference: 1.
+ x: array([[0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],...
+ y: array([[-3.68e-02, -1.58e-04, -7.16e-02, ...,  0.00e+00,  0.00e+00,
+         0.00e+00],
+       [ 3.72e-02,  2.27e-04, -5.80e-02, ...,  0.00e+00,  0.00e+00,...
+adult,linear_tree_shap_v2,6,False
+adult,fast_tree_shap_v1,6,True
+adult,fast_tree_shap_v2,6,True
+
+Arrays are not almost equal to 2 decimals
+
+Mismatched elements: 87500 / 1041984 (8.4%)
+Max absolute difference: 0.89516717
+Max relative difference: 1.
+ x: array([[0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],...
+ y: array([[-5.21e-02, -5.01e-04, -6.35e-02, ...,  0.00e+00,  4.89e-04,
+         7.22e-04],
+       [ 2.46e-02,  5.32e-05, -6.05e-02, ...,  0.00e+00,  2.83e-04,...
+adult,linear_tree_shap_v1,8,False
+
+Arrays are not almost equal to 2 decimals
+
+Mismatched elements: 87500 / 1041984 (8.4%)
+Max absolute difference: 0.89516717
+Max relative difference: 1.
+ x: array([[0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],...
+ y: array([[-5.21e-02, -5.01e-04, -6.35e-02, ...,  0.00e+00,  4.89e-04,
+         7.22e-04],
+       [ 2.46e-02,  5.32e-05, -6.05e-02, ...,  0.00e+00,  2.83e-04,...
+adult,linear_tree_shap_v2,8,False
+adult,fast_tree_shap_v1,8,True
+adult,fast_tree_shap_v2,8,True
+
+Arrays are not almost equal to 2 decimals
+
+Mismatched elements: 89233 / 1041984 (8.56%)
+Max absolute difference: 0.89784134
+Max relative difference: 1.
+ x: array([[0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],...
+ y: array([[-5.12e-02, -2.16e-03, -6.10e-02, ..., -1.53e-04,  3.21e-04,
+         1.30e-03],
+       [ 2.27e-02, -1.09e-03, -8.28e-02, ...,  4.86e-04,  9.40e-04,...
+adult,linear_tree_shap_v1,10,False
+
+Arrays are not almost equal to 2 decimals
+
+Mismatched elements: 89233 / 1041984 (8.56%)
+Max absolute difference: 0.89784134
+Max relative difference: 1.
+ x: array([[0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],...
+ y: array([[-5.12e-02, -2.16e-03, -6.10e-02, ..., -1.53e-04,  3.21e-04,
+         1.30e-03],
+       [ 2.27e-02, -1.09e-03, -8.28e-02, ...,  4.86e-04,  9.40e-04,...
+adult,linear_tree_shap_v2,10,False
+adult,fast_tree_shap_v1,10,True
+adult,fast_tree_shap_v2,10,True
